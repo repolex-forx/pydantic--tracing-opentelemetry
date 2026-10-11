@@ -1,0 +1,11 @@
+{
+  "org": "pydantic",
+  "repo": "tracing-opentelemetry",
+  "versions": [
+    {
+      "commit": "13f7ca2c0ad0c2e73a1a4bc6fe1765b83d9c3933",
+      "tag": "",
+      "parsed_at": "2026-10-11T21:33:55.806105+00:00"
+    }
+  ]
+}
